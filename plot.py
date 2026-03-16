@@ -22,6 +22,6 @@ progress_bar.empty()
 # this button is not connected to any other logic, it just causes a plain
 # rerun.
 st.button("Rerun")
-st.image("img.jpg")
+# st.image("img.jpg")
 st.sidebar.title("Sidebar Title")
 st.sidebar.markdown("This is the sidebar content")

@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: streamlit-plotter-app
-        image: habert/streamlit-plotter:v1.0
+        image: habert/streamlit-plotter:v1.1
         resources:
           limits:
             memory: "128Mi"

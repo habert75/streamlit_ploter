@@ -23,5 +23,5 @@ progress_bar.empty()
 # rerun.
 st.button("Rerun")
 # st.image("img.jpg")
-st.sidebar.title("Sidebar Title")
+st.sidebar.title("Sidebar Title Holder")
 st.sidebar.markdown("This is the sidebar content")
